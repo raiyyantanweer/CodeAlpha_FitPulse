@@ -10,7 +10,7 @@ View your app in AI Studio: https://ai.studio/apps/4c14bdd1-844d-4146-b420-76037
 
 ## Run Locally
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+**Prerequisites:** 
 
 
 1. Open Android Studio
