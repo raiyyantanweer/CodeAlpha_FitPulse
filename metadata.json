@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "An AI-powered fitness and health tracker with real-time tracking, personalized Gemini recommendations, workout logger, sleep analysis, and smartwatch hardware synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
